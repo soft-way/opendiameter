@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiameterParser", "DiameterParser\DiameterParser.vcproj", "{A4D78BA5-35FC-473D-85AB-DDE6EB18E64E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diameter", "Diameter\Diameter.vcproj", "{A3D69FB2-5CA4-4CD6-9B70-1DA1A6337BCC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ODUtl", "ODUtl\ODUtl.vcproj", "{87E3DCE3-CE78-4A69-86E7-E2D798A574DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D78BA5-35FC-473D-85AB-DDE6EB18E64E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4D78BA5-35FC-473D-85AB-DDE6EB18E64E}.Debug|Win32.Build.0 = Debug|Win32
+		{A4D78BA5-35FC-473D-85AB-DDE6EB18E64E}.Release|Win32.ActiveCfg = Release|Win32
+		{A4D78BA5-35FC-473D-85AB-DDE6EB18E64E}.Release|Win32.Build.0 = Release|Win32
+		{A3D69FB2-5CA4-4CD6-9B70-1DA1A6337BCC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3D69FB2-5CA4-4CD6-9B70-1DA1A6337BCC}.Debug|Win32.Build.0 = Debug|Win32
+		{A3D69FB2-5CA4-4CD6-9B70-1DA1A6337BCC}.Release|Win32.ActiveCfg = Release|Win32
+		{A3D69FB2-5CA4-4CD6-9B70-1DA1A6337BCC}.Release|Win32.Build.0 = Release|Win32
+		{87E3DCE3-CE78-4A69-86E7-E2D798A574DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87E3DCE3-CE78-4A69-86E7-E2D798A574DB}.Debug|Win32.Build.0 = Debug|Win32
+		{87E3DCE3-CE78-4A69-86E7-E2D798A574DB}.Release|Win32.ActiveCfg = Release|Win32
+		{87E3DCE3-CE78-4A69-86E7-E2D798A574DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
